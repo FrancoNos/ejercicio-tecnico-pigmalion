@@ -15,8 +15,6 @@ que el tiempo de ejecución si importa y que el tiempo de desarrollo no es impor
 Ante cualquier duda o ambigüedad en el enunciado, es libre de hacer todas las suposiciones
 necesarias, siempre y cuando las especifique.*/
 
-const requiredSum = 8;
-
 function debeSumar8(nums, requiredSum) {
     for (let i = 0; i < nums.length; i++) {  //lo primero que hacemos es recorrer los números
         for (let j = i + 1; j < nums.length; j++) {  // después, comparamos el número actual con el que viene después
