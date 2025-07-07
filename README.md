@@ -1,6 +1,6 @@
 # Ejercicio Técnico - Pigmalion Software
 
-Este repositorio contiene la solución a un ejercicio técnico para la posición de **Full Stack Developer Jr**.
+Este repositorio contiene la solución a un ejercicio técnico para la posición de Full Stack Developer Jr.
 
 ## 🚀🔧 Herramientas usadas
 Lenguaje: JavaScript
